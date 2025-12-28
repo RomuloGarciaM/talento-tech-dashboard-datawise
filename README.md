@@ -66,6 +66,20 @@ la exploración de la información y el seguimiento de indicadores.
 
 ---
 
+## Storytelling y comunicación de resultados
+Como parte del proyecto, se desarrolló una breve presentación en Google Slides
+con el objetivo de comunicar los principales hallazgos del análisis a un
+público no técnico.
+
+La presentación se estructura en 4 slides, donde cada visualización es
+acompañada por una interpretación clara del mensaje y sus implicancias para
+el negocio.
+
+🔗 **Presentación de resultados:**  
+(https://docs.google.com/presentation/d/1H1sfvKairse23nyWkJ1Iy1GsVCxpJVRSdHsDNxQvOns/edit?slide=id.p#slide=id.p)
+
+---
+
 ## Dashboard
 El dashboard fue desarrollado en **Looker Studio** y permite interactuar con los
 principales indicadores del negocio.
