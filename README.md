@@ -76,20 +76,14 @@ principales indicadores del negocio.
 ---
 
 ## Estructura del repositorio
+```
 ├── data/
-
-  ├── categorias.csv
-  
-  ├── clientes.csv
-  
-  ├── metodos_pago.csv
-  
-  ├── productos.csv
-  
-  └── ventas.csv
-  
+│   ├── categorias.csv
+│   ├── clientes.csv
+│   ├── metodos_pago.csv
+│   ├── productos.csv
+│   └── ventas.csv
 ├── visuals/
-
-  └── dashboard.png
-  
+│   └── dashboard.png
 └── README.md
+```
