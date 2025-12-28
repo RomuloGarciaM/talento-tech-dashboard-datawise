@@ -71,7 +71,7 @@ El dashboard fue desarrollado en **Looker Studio** y permite interactuar con los
 principales indicadores del negocio.
 
 🔗 **Link al dashboard:**  
-[Agregar aquí el enlace público a Looker Studio]
+(https://lookerstudio.google.com/u/0/reporting/588d53dd-3bf4-43a7-92c2-f95b99ed1cc9/page/p_a33zxvdkud)
 
 ---
 
