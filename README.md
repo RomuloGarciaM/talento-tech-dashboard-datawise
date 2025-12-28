@@ -76,7 +76,7 @@ acompañada por una interpretación clara del mensaje y sus implicancias para
 el negocio.
 
 🔗 **Presentación de resultados:**  
-(https://docs.google.com/presentation/d/1H1sfvKairse23nyWkJ1Iy1GsVCxpJVRSdHsDNxQvOns/edit?slide=id.p#slide=id.p)
+[Ver presentación en Google Slides](https://docs.google.com/presentation/d/1H1sfvKairse23nyWkJ1Iy1GsVCxpJVRSdHsDNxQvOns/edit?slide=id.p#slide=id.p)
 
 ---
 
@@ -85,7 +85,7 @@ El dashboard fue desarrollado en **Looker Studio** y permite interactuar con los
 principales indicadores del negocio.
 
 🔗 **Link al dashboard:**  
-(https://lookerstudio.google.com/u/0/reporting/588d53dd-3bf4-43a7-92c2-f95b99ed1cc9/page/p_a33zxvdkud)
+[Ver dashboard en Looker Studio](https://lookerstudio.google.com/u/0/reporting/588d53dd-3bf4-43a7-92c2-f95b99ed1cc9/page/p_a33zxvdkud)
 
 ---
 
